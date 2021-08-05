@@ -12,4 +12,4 @@ Dentro da pasta Alertas via WebHook, contem um arquivo em xml que basta você im
 
 ## INFORMAÇÃO IMPORTANTE
 
-Para apenas receber alertas do Zabbix na sua Alexa, basta importa o arquivo no Media Type no seu Zabbix, depois disso instalar a Skill ( Notify Me) na Alexa.
+Para apenas receber alertas do Zabbix na sua Alexa, basta importa o arquivo no Media Type no seu Zabbix e adicionar sua API KEY que você receber no email depois de ter instalado a Skill (Notify Me) na sua Alexa.
