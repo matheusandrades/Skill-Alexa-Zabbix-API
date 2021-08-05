@@ -1,0 +1,7 @@
+boto3==1.9.216
+ask-sdk-core==1.11.0
+zabbix-api==0.5.4
+python-time==0.3.0
+chardet==4.0.0
+configparser==3.5.0
+requests==2.26.0
