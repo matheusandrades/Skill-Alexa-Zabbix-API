@@ -10,6 +10,6 @@ Lembrando que este codigo é somente como fins demonstrativos para realizar a co
 Dentro da pasta Alertas via WebHook, contem um arquivo em xml que basta você importa no seu zabbix e instalar a skill notify me na sua alexa para utilizar, lembrando que para instalar é necessario migrar sua conta amazon para EUA, depois basta voltar para Brasil que funcionara tudo corretamente.
 
 
-##INFORMAÇÃO IMPORTANTE
+## INFORMAÇÃO IMPORTANTE
 
 Para apenas receber alertas do Zabbix na sua Alexa, basta importa o arquivo no Media Type no seu Zabbix, depois disso instalar a Skill ( Notify Me) na Alexa.
